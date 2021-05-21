@@ -24,7 +24,6 @@ A WebSocket demo using Go.
   - Uses [Jet Template Engine for Go](https://github.com/CloudyKit/jet/)
   - Uses [pat muxer](https://github.com/bmizerany/pat)
   - Uses [Gorilla WebSocket](https://github.com/gorilla/websocket)
-  - Uses []
 
 - HTML / CSS / JavaScript
   - Uses [Bootstrap5](https://getbootstrap.jp/)
