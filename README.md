@@ -16,7 +16,7 @@
   0. You just DO WHAT THE FUCK YOU WANT TO.
 </pre>
 
-A Web Socket demo using Go.
+A WebSocket demo using Go.
 
 - Go
 
