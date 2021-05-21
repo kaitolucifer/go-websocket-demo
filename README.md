@@ -19,7 +19,14 @@
 A Web Socket demo using Go.
 
 - Go
+
   - Built in Go version 1.16
   - Uses [Jet Template Engine for Go](https://github.com/CloudyKit/jet/)
   - Uses [pat muxer](https://github.com/bmizerany/pat)
   - Uses [Gorilla WebSocket](https://github.com/gorilla/websocket)
+  - Uses []
+
+- HTML / CSS / JavaScript
+  - Uses [Bootstrap5](https://getbootstrap.jp/)
+  - Uses [notie](https://github.com/jaredreich/notie)
+  - Uses [ReconnectingWebSocket](https://github.com/joewalnes/reconnecting-websocket)
