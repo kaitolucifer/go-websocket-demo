@@ -30,3 +30,7 @@ A Web Socket demo using Go.
   - Uses [Bootstrap5](https://getbootstrap.jp/)
   - Uses [notie](https://github.com/jaredreich/notie)
   - Uses [ReconnectingWebSocket](https://github.com/joewalnes/reconnecting-websocket)
+
+### Screeshots
+
+![demo.png](https://github.com/kaitolucifer/go-websocket-demo/blob/main/demo/demo.png?raw=true)
